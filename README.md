@@ -6,7 +6,7 @@ See the other repository ([Helm charts](https://github.com/inseefrlab/helm-chart
 
 To use the repo on helm (version 3+) :
 ```
-helm repo add inseefrlab-datascience https://inseefrlab.github.io/helm-charts-datascience
+---helm repo add eststcatalogfgfgfgfg fg f ience https://oloski.github.io/cloudlab-services/
 ```  
 
 The repo is also browsable directly https://inseefrlab.github.io/helm-charts-datascience/index.yaml
